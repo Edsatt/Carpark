@@ -1,0 +1,1 @@
+Added a function that shows the carpark being solved in real time. To see, use the flag -animate instead of -show.
